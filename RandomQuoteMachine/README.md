@@ -6,7 +6,7 @@
 
 ## Demo
 
-🔗 [On Codepen](https://codepen.io/arpan-m/full/JjpOjRw)
+🔗 [Open in Codepen](https://codepen.io/arpan-m/full/JjpOjRw)
 
 ## Screenshots
 
