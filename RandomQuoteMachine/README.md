@@ -1,9 +1,8 @@
 
 # Random Quote Machine
 
-Generates random quotes along with its author upon refreshing.
-
-Also one can share the quotes on their twitter/tumblr.
+* Generates random quotes along with its author upon refreshing.
+* Also one can share the quotes on their twitter/tumblr.
 
 ## Demo
 
