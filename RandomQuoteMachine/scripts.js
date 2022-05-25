@@ -1,6 +1,7 @@
 const projectName = 'random-quote-machine';
 let quotesData;
 
+//setting up colour variables
 var colors = [
   "#131528",
   "#586f7c",
@@ -18,12 +19,13 @@ var colors = [
 var currentQuote = '',
   currentAuthor = '';
 
+//extracting the quotes
 function getQuotes() {
   return $.ajax({
     headers: {
       Accept: 'application/json'
     },
-    url: 'https://gist.githubusercontent.com/camperbot/5a022b72e96c4c9585c32bf6a75f62d9/raw/e3c6895ce42069f0ee7e991229064f167fe8ccdc/quotes.json',
+    url: 'https://gist.githubusercontent.com/arp-an/375a091f9044771046dd307d9afe5f13/raw/7887cb931ff804aa930dad3993acf615ee5bc281/quotes.json',
     success: function (jsonQuotes) {
       if (typeof jsonQuotes === 'string') {
         quotesData = JSON.parse(jsonQuotes);
