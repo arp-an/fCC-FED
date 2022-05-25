@@ -1,0 +1,32 @@
+
+# Random Quote Machine
+
+Generates random quotes along with its author upon refreshing.
+
+Also one can share the quotes on their twitter/tumblr.
+
+## Demo
+
+🔗 [On Codepen](https://codepen.io/arpan-m/full/JjpOjRw)
+
+## Screenshots
+
+![App Screenshot](https://github.com/arp-an/fCC-FED/blob/main/RandomQuoteMachine/assets/RandomQuoteMachine-SS.png?raw=true)
+
+## Objectives
+
+* I can see a wrapper element with a corresponding id="quote-box".
+* Within #quote-box, I can see an element with a corresponding id="text".
+* Within #quote-box, I can see an element with a corresponding id="author".
+* Within #quote-box, I can see a clickable element with a corresponding id="new-quote".
+* Within #quote-box, I can see a clickable a element with a corresponding id="tweet-quote".
+* On first load, my quote machine displays a random quote in the element with id="text".
+* On first load, my quote machine displays the random quote's author in the element with id="author".
+* When the #new-quote button is clicked, my quote machine should fetch a new quote and display it in the #text element.
+* My quote machine should fetch the new quote's author when the #new-quote button is clicked and display it in the #author element.
+* I can tweet the current quote by clicking on the #tweet-quote a element. This a element should include the "twitter.com/intent/tweet" path in its href attribute to tweet the current quote.
+* The #quote-box wrapper element should be horizontally centered. Please run tests with browser's zoom level at 100% and page maximized.
+* 
+## Authors
+
+- [@arpan](https://www.github.com/arp-an)
