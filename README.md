@@ -9,13 +9,13 @@ Final projects for freeCodeCamp Front-End Development Libraries course.
 * [Random Quote Machine](https://arp-an.github.io/fCC-FED/RandomQuoteMachine/)
 
 ## Project 02
-* [Markdown Previewer](https://github.com/arp-an/fCC-FED/tree/main/MarkdownPreviewer)
+* [Markdown Previewer](https://arp-an.github.io/fCC-FED/MarkdownPreviewer)
 
 ## Project 03
-* [Drum Machine](https://github.com/arp-an/fCC-FED/tree/main/DrumMachine)
+* [Drum Machine](https://arp-an.github.io/fCC-FED/DrumMachine)
 
 ## Project 04
-* [Javascript Calculator](https://github.com/arp-an/fCC-FED/tree/main/JsCalculator)
+* [Javascript Calculator](https://arp-an.github.io/fCC-FED/JsCalculator)
 
 ## Project 05
-* [25+5 Clock](https://github.com/arp-an/fCC-FED/tree/main/PamodoroClock)
+* [25+5 Clock](https://arp-an.github.io/fCC-FED/PamodoroClock)
