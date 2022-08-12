@@ -10,7 +10,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://github.com/arp-an/fCC-FED/blob/main/RandomQuoteMachine/assets/RandomQuoteMachine-SS.png?raw=true)
+![App Screenshot](https://github.com/mrArpanM/fCC-FED/blob/main/RandomQuoteMachine/assets/RandomQuoteMachine-SS.png?raw=true)
 
 ## Objectives
 
@@ -28,4 +28,4 @@
 
 ## Authors
 
-- [@arpan](https://www.github.com/arp-an)
+- [@arpan](https://www.github.com/mrArpanM)

@@ -44,4 +44,4 @@
 
 ## Authors
 
-- [@arpan](https://www.github.com/arp-an)
+- [@arpan](https://www.github.com/mrArpanM)

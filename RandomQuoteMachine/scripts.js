@@ -25,7 +25,7 @@ function getQuotes() {
     headers: {
       Accept: 'application/json'
     },
-    url: 'https://gist.githubusercontent.com/arp-an/375a091f9044771046dd307d9afe5f13/raw/7887cb931ff804aa930dad3993acf615ee5bc281/quotes.json',
+    url: 'https://gist.githubusercontent.com/mrArpanM/375a091f9044771046dd307d9afe5f13/raw/7887cb931ff804aa930dad3993acf615ee5bc281/quotes.json',
     success: function (jsonQuotes) {
       if (typeof jsonQuotes === 'string') {
         quotesData = JSON.parse(jsonQuotes);
